@@ -3,6 +3,7 @@
 **GaraAuto**. Informaţia despre cursele asigurate de o gară auto de pasageri
 este înregistrată într-o bază de date. Cursele asigurate îndeplinesc următoarele
 condiţii:
+
 a) Pe fiecare traseu auto există mai multe curse identificate printr-un
 nume. Fiecare cursă are o destinaţie.
 
