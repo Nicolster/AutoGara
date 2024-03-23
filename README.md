@@ -5,11 +5,14 @@ este înregistrată într-o bază de date. Cursele asigurate îndeplinesc următ
 condiţii:
 a) Pe fiecare traseu auto există mai multe curse identificate printr-un
 nume. Fiecare cursă are o destinaţie.
+
 b) Fiecare cursă are o anumită capacitate (număr de locuri) şi foloseşte un
 anumit tip de transport.
+
 c) Pasagerii pot rezerva locuri la curse. Un pasager poate rezerva mai
 multe locuri. Pasagerii se identifică după nume, iar locurile după
 număr.
+
 Elaboraţi o bază de date, gestiunea căreia se va realiza dintr-o aplicaţie
 vizuală. În dependență de tematică se vor specifica criteriile de integritate
 pentru baza de date, administra obiecte ale bazei de date, stabili planul de
